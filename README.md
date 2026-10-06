@@ -117,4 +117,4 @@ The final implementation was reviewed and modified by me to understand how the c
 
 This project helped me improve my technical knowledge and practical programming skills. I gained experience in developing a project, solving problems, debugging code, and documenting my work properly.
 
-![Complete Project Page](screenshot/complete-page.png)
+![Complete Project Page](./screenshots/complete-page.png)
